@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @michaelkingnz
-- 👀 I’m interested in Acala, Defi, Crypto and Love
-- 🌱 I’m currently learning about Acala and defi 
-- 💞️ I’m looking to collaborate on oppertunities to promote Acala
-- 📫 How to reach me michaelkingnz@gmail.com
+Just a Party Bear wanting a better system for us all. 
+
 
 <!---
 michaelkingnz/michaelkingnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
